@@ -108,5 +108,4 @@ int main()
     
     subnet_Calculator(ip_address, subnet_Mask);
     return 0;
-    system("pause");
 }
